@@ -15,3 +15,5 @@ Learned how to set user & email information for single repo.
 	Only this repo uses above user & email. Global setting are intact. 
 
 Learned how to keep email private.  
+
+Trying to learn how to use SSH.
